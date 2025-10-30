@@ -9,5 +9,6 @@ The Student Placement Prediction System is trained on Random Forest Classifier w
 <img width="1112" height="864" alt="image" src="https://github.com/user-attachments/assets/305aca46-1c17-4a15-bfd4-f3005a2660f2" />
 
 
-<img width="1464" height="859" alt="image" src="https://github.com/user-attachments/assets/47ac1015-6d89-4add-839a-bccdb70e03ce" />
+<img width="1067" height="871" alt="image" src="https://github.com/user-attachments/assets/fff58166-20f5-4d55-b18c-467be6d308b3" />
+
 
